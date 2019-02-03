@@ -1,0 +1,22 @@
+{
+  "name": "angularjs-hello-world",
+  "version": "1.0.0",
+  "description": "Angular-Hello-World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinbut/angularjs-hello-world.git"
+  },
+  "keywords": [
+    "AngularJS"
+  ],
+  "author": "Colin But",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colinbut/angularjs-hello-world/issues"
+  },
+  "homepage": "https://github.com/colinbut/angularjs-hello-world#readme"
+}
